@@ -9,6 +9,9 @@
 			<li><a href="examples/GetLedger.php">Get Ledger</a></li>
 			<li><a href="examples/AddLedgerEntry.php">Ledger Entry (Add / Get by Id / Delete)</a></li>
 			<li><a href="examples/UpdateLedgerEntry.php">Update Ledger Entry</a></li>
+			<li><a href="examples/GetContacts.php">Get Contacts</a></li>
+			<li><a href="examples/AddContactEntry.php">Contact Entry (Add / Get by Id / Delete)</a></li>
+			<li><a href="examples/UpdateContactEntry.php">Update Ledger Entry</a></li>
 		</ul>
 	</body>
 </html>
