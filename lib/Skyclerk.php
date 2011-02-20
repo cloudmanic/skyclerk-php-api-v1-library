@@ -29,7 +29,7 @@ class Skyclerk
 		// Set the api key if passed in.
 		if(! is_null($key))
 		{
-			$this->set_apikey($key);
+			$this->set_key($key);
 		}
 	}
 	
