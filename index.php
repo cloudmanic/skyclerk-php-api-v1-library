@@ -12,6 +12,10 @@
 			<li><a href="examples/GetContacts.php">Get Contacts</a></li>
 			<li><a href="examples/AddContactEntry.php">Contact Entry (Add / Get by Id / Delete)</a></li>
 			<li><a href="examples/UpdateContactEntry.php">Update Ledger Entry</a></li>
+			<li><a href="examples/GetCategories.php">Get Categories</a></li>
+			<li><a href="examples/AddCategoryEntry.php">Categories Entry (Add / Update / Delete)</a></li>
+			<li><a href="examples/GetLabels.php">Get Labels</a></li>
+			<li><a href="examples/AddLabelsEntry.php">Labels Entry (Add / Update / Delete)</a></li>
 		</ul>
 	</body>
 </html>

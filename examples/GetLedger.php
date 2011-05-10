@@ -21,6 +21,6 @@ if($data = $SK->get_ledger())
 }	
 else
 {
-  echo "FAILED - Get ledger entries with limit failed with message: " . $this->_skyledger->error_to_string() . "\n";
+  echo "FAILED - Get ledger entries with limit failed with message: " . $SK->error_to_string() . "\n";
 }
 ?>
