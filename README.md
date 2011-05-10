@@ -7,8 +7,8 @@
 
 ## About
 
-THIS LIBRARY IS NOT COMPLETE YET. DO NOT USE IT IN PRODUCTION YET.
+THIS LIBRARY IS IN BETA. READY FOR BETA PRODUCTION. PLEASE REPORT ANY BUGS.
 
-This library is used to engage with the Skyclerk.com API. 
+This library is used to engage with the [Skyclerk.com](http://skyclerk.com) API. 
 
 More details of the API soon....
